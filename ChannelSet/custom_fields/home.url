@@ -1,0 +1,12 @@
+{
+    "label": "home",
+    "order": 50,
+    "instructions": "",
+    "settings": {
+        "allowed_url_schemes": [
+            "http:\/\/",
+            "https:\/\/"
+        ],
+        "url_scheme_placeholder": "https:\/\/"
+    }
+}

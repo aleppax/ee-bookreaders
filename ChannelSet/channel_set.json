@@ -1,0 +1,31 @@
+{
+    "version": "6.4.0",
+    "channels": [
+        {
+            "channel_title": "ente",
+            "channel_name": "ente",
+            "field_groups": [
+                "ente"
+            ],
+            "fields": [],
+            "cat_groups": []
+        }
+    ],
+    "field_groups": [
+        {
+            "name": "ente",
+            "fields": [
+                "descrizione",
+                "logo",
+                "home"
+            ]
+        }
+    ],
+    "statuses": [],
+    "category_groups": [],
+    "upload_destinations": [
+        {
+            "name": "loghi"
+        }
+    ]
+}
